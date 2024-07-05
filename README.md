@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SCADA, SAGE, Typescript**
 
-- 👨‍💻 My portfolio is available at [portfolio-gabriel-soares.vercel.app](portfolio-gabriel-soares.vercel.app)
+- 👨‍💻 My portfolio is available at [https://portfolio-gabriel-soares.vercel.app](portfolio-gabriel-soares.vercel.app)
 
 - 📫 How to reach me **gabrielsoaresdeveloper@gmail.com**
 
